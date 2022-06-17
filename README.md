@@ -1,0 +1,2 @@
+# Probabilidade_Quebra_Equipamentos_Distribuicao_Poisson
+Prediction of probability using Poisson distribution
